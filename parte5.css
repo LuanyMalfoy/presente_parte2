@@ -31,7 +31,7 @@ body{
 
 .banner{
     position: relative;
-    background: url(./fotos/png3.jpg) no-repeat center center/cover;
+    background: url(./foto/png3.jpg) no-repeat center center/cover;
     padding: 120px 1rem 2rem;
     background-size: cover;
 }
